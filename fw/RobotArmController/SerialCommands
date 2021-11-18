@@ -1,0 +1,12 @@
+{"set":"position","to":50}		//position parameter between -max_position and max_position
+{"set":"arm","to":90}			//set extension of digger arm between 0 and 180	
+
+{"set":"mode","to":"zero"}
+{"set":"mode","to":"positionPid"}
+{"set":"mode","to":"changeArm"}
+{"set":"mode","to":"stop"}
+
+
+
+{"set":"parameters","kp":1.0, "ki":0, "kd":0, "dt":20}	//dt in ms
+{"set":"timer","to":10)					//timer in seconds
