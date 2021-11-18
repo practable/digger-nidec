@@ -5,8 +5,9 @@ Digger experiment with nidec motor (spoiler alert - contains friction!)
 
 ![Digger](./hw/cad/Digger.PNG)
 
-##PCB
-The PCB files are for a version of the PCB intended to work for a number of different hardware setups and used for the Spinner experiment [spinner-nidex](https://github.com/practable/spinner-nidec) and therefore does not represent the best design for the Digger alone. There is currently no PCB design for the Digger experiment specifically.
+## PCB
+
+PCB files are for a version of the PCB intended to work for a number of different hardware setups and used for the Spinner experiment [spinner-nidex](https://github.com/practable/spinner-nidec) and therefore does not represent the best design for the Digger alone. There is currently no PCB design for the Digger experiment specifically.
 
 ![PCB](./hw/pcb/PCB_PIDController.png)
 
